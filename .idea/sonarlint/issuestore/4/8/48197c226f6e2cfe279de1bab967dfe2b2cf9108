@@ -1,0 +1,21 @@
+
+Gsquid:S1481)"+Remove this unused "result" local variable.(•‰•ôþÿÿÿÿ
+fsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¢“¬
+Vsquid:S1854)":Remove this useless assignment to local variable "result".(•‰•ôþÿÿÿÿ
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(òø…Á
+hsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(åíÍ8•ŠÜ€”-
+hsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(åíÍ8•ŠÜ€”-
+hsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(åíÍ8•ŠÜ€”-
+hsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(åíÍ8•ŠÜ€”-
+Nsquid:S14819"+Remove this unused "result" local variable.(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+Nsquid:S1481J"+Remove this unused "result" local variable.(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+Nsquid:S1481]"+Remove this unused "result" local variable.(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+Nsquid:S1481o"+Remove this unused "result" local variable.(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+msquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù–ö8•ŠÜ€”-
+msquid:S00100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Žü±¿8•ŠÜ€”-
+msquid:S00100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ’ü8•ŠÜ€”-
+msquid:S00100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¯ÎŸ8•ŠÜ€”-
+]squid:S18549":Remove this useless assignment to local variable "result".(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+]squid:S1854J":Remove this useless assignment to local variable "result".(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+]squid:S1854]":Remove this useless assignment to local variable "result".(•‰•ôþÿÿÿÿ8•ŠÜ€”-
+]squid:S1854o":Remove this useless assignment to local variable "result".(•‰•ôþÿÿÿÿ8•ŠÜ€”-
