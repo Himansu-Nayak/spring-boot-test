@@ -1,11 +1,13 @@
 package com.org.test.service;
 
-import com.org.test.repository.ItemRepository;
 import com.org.test.entity.Item;
+import com.org.test.repository.ItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+
+import static java.util.Arrays.asList;
 
 @Service
 public class ItemBusinessService {
@@ -13,8 +15,8 @@ public class ItemBusinessService {
 	@Autowired
 	private ItemRepository repository;
 	
-	public Item retreiveHardcodedItem() {
-		return new Item(1, "Ball", 10, 100);
+	public List<Item> retrieveHardcodedItem() {
+		return asList(new Item(1, "Ball", 10, 100));
 	}
 	
 	public List<Item> retrieveAllItems() {

@@ -1,8 +1,7 @@
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\controller\HelloWorldController.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\model\Item.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\business\ItemBusinessService.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\business\SomeBusinessImpl.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\UnitTestingApplication.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\controller\ItemController.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\data\SomeDataService.java
-C:\Users\hnayak\github\spring-unit-testing-with-junit-and-mockito\src\main\java\com\in28minutes\unittesting\unittesting\data\ItemRepository.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\controller\HelloWorldController.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\UnitTestingApplication.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\service\ItemBusinessService.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\entity\Item.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\repository\ItemRepository.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\service\SomeBusinessImpl.java
+C:\users\hnayak\github\spring-boot-test\src\main\java\com\org\test\repository\SomeDataService.java

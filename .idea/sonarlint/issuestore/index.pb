@@ -14,10 +14,6 @@ k
 ;src/test/java/com/org/test/UnitTestingApplicationTests.java,3\3\336605196ab6bb6ec68c7b655b36afea2e82fe83
 k
 ;src/main/java/com/org/test/service/ItemBusinessService.java,b\4\b47528db8f6e51a9e415f3b8b945b5aaffd9c9ae
-d
-4src/main/java/com/org/test/data/SomeDataService.java,6\9\6999e05c2a9929b1d3971fbbce07d86edbefa8cb
-c
-3src/main/java/com/org/test/data/ItemRepository.java,2\f\2fe5957e3ab9c1755c171bff0b81a6094cde8f58
 o
 ?src/main/java/com/org/test/controller/HelloWorldController.java,a\8\a8a08c6c1483c3e6f00fd6d16b4213f8f7ddf75e
 l
@@ -42,9 +38,5 @@ s
 Csrc/test/java/com/org/test/controller/HelloWorldControllerTest.java,4\8\48197c226f6e2cfe279de1bab967dfe2b2cf9108
 b
 2src/test/java/com/org/test/spike/JsonPathTest.java,d\a\daedccdc638c97c2f888eaed39f3ac99b53412ac
-g
-7src/test/java/com/org/test/data/ItemRepositoryTest.java,d\2\d2bb347e1a1abdfd4d61dc3b280c2a7a3f28f258
-L
-00.code-after-preparation.md,4\2\42a27b2f787c1c03d39ce776f08a7175488e857d
 9
 	readme.md,2\7\275d783e298228506068436512433d343feb52aa
