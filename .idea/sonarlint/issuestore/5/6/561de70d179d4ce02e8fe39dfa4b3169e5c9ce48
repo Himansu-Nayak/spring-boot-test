@@ -1,25 +1,0 @@
-
-csquid:S1192*"LDefine a constant instead of duplicating this literal "in28Minutes" 5 times.(Š„Ÿá
-O
-squid:S106j"9Replace this use of System.out or System.err by a logger.(õ’€°
-O
-squid:S106k"9Replace this use of System.out or System.err by a logger.(–Ÿ¦
-O
-squid:S106n"9Replace this use of System.out or System.err by a logger.(–Ÿ¦
-O
-squid:S106p"9Replace this use of System.out or System.err by a logger.(Ÿ”Ë»
-T
-squid:S106w"9Replace this use of System.out or System.err by a logger.(íÊûÿÿÿÿ
-O
-squid:S106x"9Replace this use of System.out or System.err by a logger.(åÚâˆ
-T
-squid:S106{"9Replace this use of System.out or System.err by a logger.(‘ù‘Àùÿÿÿÿ
-N
-squid:S106~"9Replace this use of System.out or System.err by a logger.(ĞŞy
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ĞŞy
-Gsquid:S1481:"+Remove this unused "value1" local variable.(ùİùÿÿÿÿ
-Asquid:S1481;"+Remove this unused "value2" local variable.(¹”Ï8
-fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¤ …
-Psquid:S1854;":Remove this useless assignment to local variable "value2".(¹”Ï8
-Vsquid:S1854:":Remove this useless assignment to local variable "value1".(ùİùÿÿÿÿ
